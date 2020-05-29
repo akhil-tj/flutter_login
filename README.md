@@ -1,4 +1,4 @@
-# mylogin
+# Un-named
 
 A new Flutter project.
 
@@ -14,3 +14,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Docs</br>
+Feel free to use up the Design concept as well as build page :wink:</br>
+## Design concept
+![Design concept](https://github.com/itexpert2572000/flutter_login/blob/master/screenshots/LoginUILogin%201.png)
+## Mockup
+![mockup](https://github.com/itexpert2572000/flutter_login/blob/master/screenshots/d0fb4326d084f912daf18e5d80e3af0a.jpg)
+## Design Tools used</br>
+* Figma
+* Photoshop
+## Flutter app Screenshot
+![flutter app](https://github.com/itexpert2572000/flutter_login/blob/master/screenshots/Screenshot_20200529_154710_com.example.mylogin.jpg)
+## External Packages</br>
+* flutter_svg
+
